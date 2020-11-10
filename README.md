@@ -14,11 +14,11 @@ You will learn how hacking works. You will work with iterators and generators, a
 one of the most powerful features of Python. You will practice developing a client app and connecting to a server using the socket module. 
 The project will also get you acquainted with JSON and the time module.
  
- 
-Example 1:
-Input: python hack.py localhost 9090
-Output:
-{
-    "login" : "su",
-    "password" : "fTUe3O99Rre"
-}
+   
+Example 1:  
+Input: python hack.py localhost 9090  
+Output:  
+{  
+    "login" : "su",  
+    "password" : "fTUe3O99Rre"  
+}  

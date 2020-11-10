@@ -19,6 +19,6 @@ Example 1:
 Input: python hack.py localhost 9090  
 Output:  
 {  
-    "login" : "su",  
-    "password" : "fTUe3O99Rre"  
+      "login" : "su",  
+      "password" : "fTUe3O99Rre"  
 }  

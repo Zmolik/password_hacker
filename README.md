@@ -15,7 +15,7 @@ one of the most powerful features of Python. You will practice developing a clie
 The project will also get you acquainted with JSON and the time module.
  
    
-Example 1:  
+Example:  
 Input: python hack.py localhost 9090  
 Output:  
 {  

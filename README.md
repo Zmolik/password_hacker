@@ -9,7 +9,7 @@ Predefined vulnerabilities:
 - the password contains only ascii_letters and digits
 - if we guess the starting part of the password correctly (can be substring of just one character or more) the server has a delay in a response
 
-Learning outcomes
+Learning outcomes:  
 You will learn how hacking works. You will work with iterators and generators, and you’ll learn a little something about the itertools module – 
 one of the most powerful features of Python. You will practice developing a client app and connecting to a server using the socket module. 
 The project will also get you acquainted with JSON and the time module.
